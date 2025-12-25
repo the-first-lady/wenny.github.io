@@ -1,22 +1,69 @@
-<header class="hero">
-  <h1>Hi, I'm Kaswita 👩‍💻</h1>
-  <p>Banking Operations veteran | Data Scientist</p>
-  <a href="#projects" class="btn">Lihat Proyek</a>
-</header>
-<section id="projects" class="projects">
-  <h2>Proyek Saya</h2>
-  <div class="grid">
-    <div class="card">
-      <h3>📊 Analisis Data</h3>
-      <p>Visualisasi clustering & PCA untuk e-commerce.</p>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portofolio Wenny</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    function switchLang(lang) {
+      document.querySelectorAll('.lang').forEach(el => {
+        el.style.display = el.classList.contains(lang) ? 'block' : 'none';
+      });
+    }
+  </script>
+</head>
+<body>
+  <header class="hero">
+    <h1>🌸 Portofolio Wenny</h1>
+    <p class="lang id">Profesional Perbankan → Data Scientist → Digital Entrepreneur</p>
+    <p class="lang en" style="display:none;">Banking Professional → Data Scientist → Digital Entrepreneur</p>
+    <div class="lang-switch">
+      <button onclick="switchLang('id')">🇮🇩 Bahasa</button>
+      <button onclick="switchLang('en')">🇬🇧 English</button>
     </div>
-    <div class="card">
-      <h3>🎨 Coloring Book</h3>
-      <p>Printable bilingual untuk anak & keluarga.</p>
+  </header>
+
+  <section class="about">
+    <h2 class="lang id">Tentang Saya</h2>
+    <h2 class="lang en" style="display:none;">About Me</h2>
+    <p class="lang id">Saya berpengalaman 15 tahun di perbankan (operasional, risiko, compliance) dan kini fokus pada data science serta membangun brand digital kreatif.</p>
+    <p class="lang en" style="display:none;">I have 15 years of experience in banking (operations, risk, compliance) and now focus on data science and building creative digital brands.</p>
+  </section>
+
+  <section class="projects">
+    <h2 class="lang id">Proyek</h2>
+    <h2 class="lang en" style="display:none;">Projects</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>📊 Data Analysis</h3>
+        <p class="lang id">Visualisasi clustering & PCA untuk e-commerce.</p>
+        <p class="lang en" style="display:none;">Clustering & PCA visualization for e-commerce.</p>
+      </div>
+      <div class="card">
+        <h3>🎨 Coloring Book</h3>
+        <p class="lang id">Printable bilingual untuk anak & keluarga.</p>
+        <p class="lang en" style="display:none;">Bilingual printable for kids & families.</p>
+      </div>
+      <div class="card">
+        <h3>📱 TikTok Affiliate</h3>
+        <p class="lang id">Strategi konten kreatif & storytelling.</p>
+        <p class="lang en" style="display:none;">Creative content strategy & storytelling.</p>
+      </div>
     </div>
-    <div class="card">
-      <h3>📱 TikTok Affiliate</h3>
-      <p>Strategi konten kreatif & storytelling.</p>
-    </div>
-  </div>
-</section>
+  </section>
+
+  <section class="contact">
+    <h2 class="lang id">Kontak</h2>
+    <h2 class="lang en" style="display:none;">Contact</h2>
+    <p>Email: <a href="mailto:wenny@example.com">wenny@example.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/wenny">linkedin.com/in/wenny</a></p>
+    <p>GitHub: <a href="https://github.com/wenny">github.com/wenny</a></p>
+  </section>
+
+  <footer>
+    <p class="lang id">© 2025 Wenny | Dibuat dengan ❤️ di GitHub Pages</p>
+    <p class="lang en" style="display:none;">© 2025 Wenny | Made with ❤️ on GitHub Pages</p>
+  </footer>
+</body>
+</html>
