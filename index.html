@@ -67,3 +67,38 @@
   </footer>
 </body>
 </html>
+<script>
+  function revealOnScroll() {
+    const reveals = document.querySelectorAll('.reveal');
+    for (let i = 0; i < reveals.length; i++) {
+      const windowHeight = window.innerHeight;
+      const elementTop = reveals[i].getBoundingClientRect().top;
+      const elementVisible = 100;
+
+      if (elementTop < windowHeight - elementVisible) {
+        reveals[i].classList.add('active');
+      } else {
+        reveals[i].classList.remove('active');
+      }
+    }
+  }
+
+  window.addEventListener('scroll', revealOnScroll);
+</script>
+<section class="about reveal">
+  <h2 class="lang id">Tentang Saya</h2>
+  <h2 class="lang en" style="display:none;">About Me</h2>
+  <p class="lang id">Saya berpengalaman 15 tahun di perbankan...</p>
+  <p class="lang en" style="display:none;">I have 15 years of experience...</p>
+</section>
+
+<section class="projects reveal">
+  <h2 class="lang id">Proyek</h2>
+  <h2 class="lang en" style="display:none;">Projects</h2>
+  <!-- grid cards -->
+</section>
+
+<section class="contact reveal">
+  <h2 class="lang id">Kontak</h2>
+  <h2 class="lang en" style="display:none;">Contact</h2>
+</section>
