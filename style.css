@@ -3,6 +3,7 @@ body {
   margin: 0;
   background: #fffafc;
   color: #333;
+  line-height: 1.6;
 }
 
 .hero {
@@ -10,6 +11,21 @@ body {
   color: white;
   text-align: center;
   padding: 4rem 2rem;
+}
+
+.btn {
+  background: white;
+  color: #ff69b4;
+  padding: 0.8rem 1.5rem;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.btn:hover {
+  background: #ffe4ec;
+  transform: scale(1.05);
 }
 
 .lang-switch button {
@@ -21,6 +37,12 @@ body {
   font-weight: bold;
   background: white;
   color: #ff69b4;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.lang-switch button:hover {
+  background: #ffe4ec;
+  transform: scale(1.05);
 }
 
 section {
@@ -38,38 +60,7 @@ section {
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   padding: 1.5rem;
-  transition: transform 0.2s;
-}
-
-.card:hover {
-  transform: translateY(-5px);
-}
-
-footer {
-  background: #eee;
-  text-align: center;
-  padding: 1rem;
-  margin-top: 2rem;
-}
-.hero {
-  background: linear-gradient(135deg, #ffb6c1, #ff69b4);
-  color: white;
-  text-align: center;
-  padding: 4rem 2rem;
-  animation: fadeIn 2s ease-in-out;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-.card {
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  padding: 1.5rem;
   transition: transform 0.3s, box-shadow 0.3s;
-  animation: slideUp 1s ease-in-out;
 }
 
 .card:hover {
@@ -77,26 +68,7 @@ footer {
   box-shadow: 0 6px 12px rgba(0,0,0,0.15);
 }
 
-@keyframes slideUp {
-  from { transform: translateY(30px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-.lang-switch button {
-  margin: 0.5rem;
-  padding: 0.6rem 1.2rem;
-  border: none;
-  border-radius: 20px;
-  cursor: pointer;
-  font-weight: bold;
-  background: white;
-  color: #ff69b4;
-  transition: background 0.3s, transform 0.2s;
-}
-
-.lang-switch button:hover {
-  background: #ffe4ec;
-  transform: scale(1.05);
-}
+/* Scroll Reveal */
 .reveal {
   opacity: 0;
   transform: translateY(30px);
@@ -106,4 +78,120 @@ footer {
 .reveal.active {
   opacity: 1;
   transform: translateY(0);
+}
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+.social-icons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.social-icons a svg {
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.social-icons a:hover svg {
+  transform: scale(1.2);
+  opacity: 0.8;
+}
+footer {
+  background: linear-gradient(135deg, #ffe4ec, #ffb6c1);
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  color: #333;
+}
+
+footer p {
+  margin: 0.5rem 0;
+}
+
+.social-icons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.social-icons a svg {
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.social-icons a:hover svg {
+  transform: scale(1.2);
+  opacity: 0.8;
+}
+footer {
+  background: linear-gradient(270deg, #ffe4ec, #ffb6c1, #ff69b4);
+  background-size: 600% 600%;
+  animation: gradientMove 12s ease infinite;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  color: #333;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+footer p {
+  margin: 0.5rem 0;
+}
+
+.social-icons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.social-icons a svg {
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.social-icons a:hover svg {
+  transform: scale(1.2);
+  opacity: 0.8;
+}
+.hero {
+  background: linear-gradient(270deg, #ffb6c1, #ff69b4, #ffe4ec);
+  background-size: 600% 600%;
+  animation: gradientHero 12s ease infinite;
+  color: white;
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+@keyframes gradientHero {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.hero {
+  background: linear-gradient(270deg, #ffb6c1, #ff69b4, #ffe4ec);
+  background-size: 600% 600%;
+  animation: gradientHero 12s ease infinite;
+  color: white;
+  text-align: center;
+  padding: 6rem 2rem;
+  background-attachment: fixed; /* Parallax effect */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@keyframes gradientHero {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
