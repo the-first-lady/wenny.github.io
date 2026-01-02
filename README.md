@@ -45,9 +45,6 @@ I was motivated to switch from a banking career to data science by a strong inte
 - **Pushed** to [Market Basket Analysis](https://github.com/the-first-lady/Market-Basket-Analysis_Online-Retail-Data) on **Feb 11, 2025**  
 - **Pushed** to [Customer Segmentation](https://github.com/the-first-lady/customer-segmentation_customer-feedback-satisfaction) on **Mar 7, 2025**
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaswita-kaswita-b2b19219a)
-
 ## Certifications
 - [Data Science with Python](link-to-certificate) - habiskerja.com, 2024
 - [Basics of Data Science](link-to-certificate) -  Dicoding Indonesia , 2024
