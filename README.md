@@ -60,25 +60,14 @@ I was motivated to switch from a banking career to data science by a strong inte
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 🎮 Fun Corner: Pac-Man & Snake
+## 🎧 Now Playing
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default)
 
-## Pac-Man Demo
-![Pacman Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+## 🐱 Virtual Pet
+![Pet](https://github.com/username/pet-repo/blob/main/pet.gif)
 
-## Snake Demo
-![Snake Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
----
-
-## ▶️ Mainkan Game
-- [Mainkan Pac-Man](https://username.github.io/pacman-game)
-- [Mainkan Snake](https://username.github.io/snake-game)
-
----
-
-✨ Tambahkan bagian ini di README kamu untuk memberi kesan playful dan unik.  
-Kalau kamu belum punya game di GitHub Pages, cukup ganti link dengan project HTML/JS sederhana yang kamu upload ke repo lalu aktifkan **GitHub Pages**.
-
+## 📊 Skill Radar
+![Skill Chart](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
 
 ---
