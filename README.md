@@ -61,7 +61,8 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ## 🎧 Now Playing
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
 
 ## 🐱 Virtual Pet
 ![Pet](https://github.com/username/pet-repo/blob/main/pet.gif)
