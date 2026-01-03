@@ -61,16 +61,13 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ## 🎧 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Kaswita&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
 ## 🐱 Virtual Pet
 ![Pet](https://github.com/username/pet-repo/blob/main/pet.gif)
 
 ## 📊 Skill Radar
-[![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+[![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-first-lady&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
