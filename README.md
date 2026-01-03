@@ -68,7 +68,8 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![Pet](https://github.com/username/pet-repo/blob/main/pet.gif)
 
 ## 📊 Skill Radar
-![Skill Chart](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+[![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 ---
