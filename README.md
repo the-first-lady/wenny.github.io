@@ -40,6 +40,9 @@ I was motivated to switch from a banking career to data science by a strong inte
 **Followers:** 0  
 **Following:** 0
 
+## 📊 Skill Radar
+[![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-first-lady&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## Recent Activity
 - **Pushed** to [User Retention Analysis](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data) on **Dec 29, 2025**  
 - **Pushed** to [Clustering Ecommerce Customer Behavior Dataset](https://github.com/the-first-lady/clustering_Ecommerce-Customer-Behavior-Dataset.ipynb) on **Dec 28, 2025**  
@@ -61,13 +64,10 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ## 🎧 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Kaswita&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Kaswita&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/Kaswita)
 
 ## 🐱 Virtual Pet
-![Pet](https://github.com/username/pet-repo/blob/main/pet.gif)
-
-## 📊 Skill Radar
-[![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-first-lady&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Pet](https://github.com/the-first-lady/pet-repo/blob/main/pet.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
