@@ -35,6 +35,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-first-lady&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 **Public Repositories:** 11  
 **Followers:** 0  
 **Following:** 0
@@ -52,9 +53,9 @@ I was motivated to switch from a banking career to data science by a strong inte
 - [Python Programming](link-to-certificate) -  Dicoding Indonesia , 2024
 - [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/GRX53L4QKZ0M) -  Dicoding Indonesia , 2024
 - [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/GRX54003YP0M) -  Dicoding Indonesia , 2024
-- [Memulai Pemrograman dengan Python)](https://www.dicoding.com/certificates/KEXLYN0D4ZG2) -  Dicoding Indonesia , 2024
-- [Data Science)](link-to-certificate) -  MySkill , 2025
-- [Data Science Fundamental)](link-to-certificate) -  MySkill , 2025
+- [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/KEXLYN0D4ZG2) -  Dicoding Indonesia , 2024
+- [Data Science](link-to-certificate) -  MySkill , 2025
+- [Data Science Fundamental](link-to-certificate) -  MySkill , 2025
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
