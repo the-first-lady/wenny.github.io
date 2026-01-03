@@ -14,23 +14,28 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ## Top Projects
-- [User Retention Analysis on Online Retail Data](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data)  
+- [User Retention Analysis on Online Retail Data](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data)
+  
   *Analyzing user retention patterns to enhance customer loyalty.*  
   ⭐ Stars: 0 | 🗂 Forks: 0 | 🐍 Language: Jupyter Notebook  
 
 - [User-Segmentation_Online-Retail-Data](https://github.com/the-first-lady/User-Segmentation_Online-Retail-Data)
+  
   *To perform user segmentation using online retail data by applying the RFM (Recency, Frequency, Monetary) technique.*  
   ⭐ Stars: 0 | 🗂 Forks: 0 | 🐍 Language: Jupyter Notebook  
 
-- [Market Basket Analysis on Online Retail Data](https://github.com/the-first-lady/Market-Basket-Analysis_Online-Retail-Data)  
+- [Market Basket Analysis on Online Retail Data](https://github.com/the-first-lady/Market-Basket-Analysis_Online-Retail-Data)
+  
   *Discovering product association patterns for marketing strategies.*  
   ⭐ Stars: 0 | 🗂 Forks: 0 | 🐍 Language: Jupyter Notebook  
 
-- [Clustering_Ecommerce-Customer-Behavior-Dataset.ipynb](https://github.com/the-first-lady/Clustering_Ecommerce-Customer-Behavior-Dataset) 
+- [Clustering_Ecommerce-Customer-Behavior-Dataset.ipynb](https://github.com/the-first-lady/Clustering_Ecommerce-Customer-Behavior-Dataset)
+  
   *To identify e-commerce customer behavior patterns through clustering (unsupervised learning).*  
   ⭐ Stars: 0 | 🗂 Forks: 0 | 🐍 Language: Google Colab Notebook  
 
 - [Prediction-Model_Credit-card-customer](https://github.com/the-first-lady/Prediction-Model_Credit-card-customer)
+
   *To predict customers who are likely to experience credit card payment delays in order to determine appropriate strategies for addressing future conditions.*  
   ⭐ Stars: 0 | 🗂 Forks: 0 | 🐍 Language: Jupyter Notebook
 
