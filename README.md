@@ -22,8 +22,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 - [User Retention Analysis on Online Retail Data](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data)   
   *Analyzing user retention patterns to enhance customer loyalty.*  
   ![Stars](https://img.shields.io/github/stars/the-first-lady/User-Retention-Analysis_Online-Retail-Data?style=social)
-  ![Forks](https://img.shields.io/github/forks/the-first-lady/User-Retention-Analysis_Online-Retail-Data?style=social)  
-  🐍 Language: Jupyter Notebook  
+  ![Forks](https://img.shields.io/github/forks/the-first-lady/User-Retention-Analysis_Online-Retail-Data?style=social) | 🐍 Language: Jupyter Notebook  
 
 - [User-Segmentation_Online-Retail-Data](https://github.com/the-first-lady/User-Segmentation_Online-Retail-Data)   
   *To perform user segmentation using online retail data by applying the RFM (Recency, Frequency, Monetary) technique.*  
