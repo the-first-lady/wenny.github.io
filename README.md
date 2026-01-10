@@ -18,6 +18,9 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
+- Visualization
+![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://share.streamlit.io/username/repo/main/app.py)
+
 ## Top Projects
 - [User Retention Analysis on Online Retail Data](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data)   
   *Analyzing user retention patterns to enhance customer loyalty.*  
