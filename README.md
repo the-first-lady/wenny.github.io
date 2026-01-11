@@ -56,15 +56,10 @@ I was motivated to switch from a banking career to data science by a strong inte
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-first-lady&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-**Followers:** 0  
-**Following:** 0  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ### 👥 Social Stats
-![GitHub followers](https://img.shields.io/github/followers/the-first-lady?style=for-the-badge&logo=github)
-![GitHub following](https://img.shields.io/github/following/the-first-lady?style=for-the-badge&logo=github)
-
+![GitHub followers](https://img.shields.io/github/followers/the-first-lady?style=for-the-badge&logo=github)  
 
 ## 📊 Skill Radar
 [![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-first-lady&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
