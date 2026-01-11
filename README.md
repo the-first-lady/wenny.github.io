@@ -53,6 +53,11 @@ I was motivated to switch from a banking career to data science by a strong inte
   ![Forks](https://img.shields.io/github/forks/the-first-lady/Prediction-Model_Credit-card-customer?style=social)  
   🐍 Language: Jupyter Notebook
 
+## Dummy Projects :  
+   Healthcare/Medical : 2 Project  
+   Finance/Banking    : 1 Project  
+   Marketing/Retail   : 6 Project  
+
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-first-lady&theme=blueberry&hide_border=false)<br/>
