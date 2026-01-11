@@ -19,10 +19,14 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 - Visualization  
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://share.streamlit.io/username/repo/main/app.py)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://share.streamlit.io/username/repo/main/app.py)  
 
+## Dummy Projects :  
+   - Healthcare/Medical  : 2 Project  
+   - Finance/Banking      : 1 Project  
+   - Marketing/Retail     : 6 Project
 
-## Top Projects
+## Top Projects :  
 - [User Retention Analysis on Online Retail Data](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data)   
   *Analyzing user retention patterns to enhance customer loyalty.*  
   ![Stars](https://img.shields.io/github/stars/the-first-lady/User-Retention-Analysis_Online-Retail-Data?style=social)
@@ -51,31 +55,26 @@ I was motivated to switch from a banking career to data science by a strong inte
   *To predict customers who are likely to experience credit card payment delays in order to determine appropriate strategies for addressing future conditions.*  
   ![Stars](https://img.shields.io/github/stars/the-first-lady/Prediction-Model_Credit-card-customer?style=social)
   ![Forks](https://img.shields.io/github/forks/the-first-lady/Prediction-Model_Credit-card-customer?style=social)  
-  🐍 Language: Jupyter Notebook
-
-## Dummy Projects :  
-   - Healthcare/Medical  : 2 Project  
-   - Finance/Banking      : 1 Project  
-   - Marketing/Retail     : 6 Project  
+  🐍 Language: Jupyter Notebook   
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-first-lady&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
-### 👥 Social Stats
+### 👥 Social Stats :  
 ![GitHub followers](https://img.shields.io/github/followers/the-first-lady?style=for-the-badge&logo=github)  
 
-## 📊 Skill Radar
+## 📊 Skill Radar :  
 [![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-first-lady&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Recent Activity
+## Recent Activity :  
 - **Pushed** to [User Retention Analysis](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data) on **Dec 29, 2025**  
 - **Pushed** to [Clustering Ecommerce Customer Behavior Dataset](https://github.com/the-first-lady/clustering_Ecommerce-Customer-Behavior-Dataset.ipynb) on **Dec 28, 2025**  
 - **Pushed** to [Market Basket Analysis](https://github.com/the-first-lady/Market-Basket-Analysis_Online-Retail-Data) on **Feb 11, 2025**  
 - **Pushed** to [Customer Segmentation](https://github.com/the-first-lady/customer-segmentation_customer-feedback-satisfaction) on **Mar 7, 2025**
 
-## Certifications
+## Certifications :  
 - [Data Science with Python](link-to-certificate) - habiskerja.com, 2024
 - [Basics of Data Science](link-to-certificate) -  Dicoding Indonesia , 2024
 - [Basics of SQL](link-to-certificate) -  Dicoding Indonesia , 2024
@@ -86,7 +85,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 - [Data Science](link-to-certificate) -  MySkill , 2025
 - [Data Science Fundamental](link-to-certificate) -  MySkill , 2025
 
-## ✍️Random Dev Quote
+## ✍️Random Dev Quote :  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
 [![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
