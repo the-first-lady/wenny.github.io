@@ -21,7 +21,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 - Visualization  
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://share.streamlit.io/username/repo/main/app.py)  
 
-## Portfolio Projects :  
+## Domain Portfolio Projects :  
    - Healthcare/Medical  : 2 Project  
    - Finance/Banking      : 1 Project  
    - Marketing/Retail     : 6 Project
