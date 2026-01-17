@@ -2,12 +2,12 @@
 
 I was motivated to switch from a banking career to data science by a strong interest in analytics and strategic problem-solving. I enjoy transforming complicated data into useful business insights.
 
-## 💻IDE
+## 💻Skills
+- IDE  
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 💻Skills
+  
 - Language   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -50,5 +50,3 @@ I was motivated to switch from a banking career to data science by a strong inte
 
 ## ✍️Random Dev Quote :  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
----
-[![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
